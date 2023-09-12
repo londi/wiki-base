@@ -1,6 +1,6 @@
-baseURL : "https://wiki.strubli.com/fprog"
+baseURL : "https://wiki.strubli.com/"
 languageCode : "en-ch"
-title : "fprog wiki page"
+title : "wiki page"
 theme : "dark-theme-editor"
 
 
@@ -8,7 +8,7 @@ params:
   site:
     faviconUrl: ""
   header:
-    title: "fprog wiki page"
+    title: "wiki page"
     subtitle: ""
     author: Leon
     logo:
@@ -25,7 +25,7 @@ params:
     author: "Leon Lüthi"
   homePage:
     siteLongDescriptionTitle: "Intro"
-    siteLongDescription: "This is a summary and code snippet collection of the modul fprog.\nCopyright of images belongs to FHNW!"
+    siteLongDescription: "This is a summary and code snippet collection of the modul xyz.\nCopyright of images belongs to FHNW!"
     numOfRecentPosts: 10
   page:
     dateFormat: "02.01.2006"
